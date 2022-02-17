@@ -1,7 +1,8 @@
 # Youtube-Channel-Analysis
 YouTube Channels Analysis Using Google Cloud API 
 Exploratory Data Analysing Using Youtube Video Data from Indian Most Popular Entertainment Channels
-1. Aims and Objectives
+
+#1. Aims and Objectives
 In this project, I would like to explore the following:
 * Getting to know Youtube API and how to obtain video data.
 * Analyzing video data and verify different common "myths" about what makes a video do well on Youtube, for example:
